@@ -84,5 +84,11 @@ button {
 .hero-text {
   max-width: 450px;
 }
+/*-------------------------------*/
 
+/*----------Information section--------*/
+.information {
+  height: 500px;
+  max-width: 1050px;
+}
 /*-------------------------------*/
