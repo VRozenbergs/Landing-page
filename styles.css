@@ -3,6 +3,7 @@ body {
   font-family: Roboto, serif;
   background-color: #1f2937;
 }
+
 /*-------------------------------*/
 /*----------Header section--------*/
 .header-section {
@@ -45,6 +46,7 @@ a {
   justify-content: space-between;
   align-items: flex-end;
   margin-top: 70px;
+  margin-bottom: 100px;
 }
 
 .placeholder {
@@ -89,6 +91,49 @@ button {
 /*----------Information section--------*/
 .information {
   height: 500px;
-  max-width: 1050px;
+  background-color: #f9faf8;
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  align-items: center;
 }
+
+.h1-information {
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: 900;
+  text-align: center;
+  background-color: #f9faf8;
+  margin: 0px;
+  padding-top: 42px;
+}
+
+.box1,
+.box2,
+.box3,
+.box4 {
+  height: 165px;
+  width: 165px;
+  border: 4px solid #3b82f6;
+  border-radius: 15px;
+}
+
+.box1p,
+.box2p,
+.box3p,
+.box4p {
+  font-size: 18px;
+  color: #4b5563;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.item1,
+.item2,
+.item3,
+.item4 {
+  height: 235px;
+  width: 165px;
+}
+
 /*-------------------------------*/
