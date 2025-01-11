@@ -38,6 +38,17 @@ a {
 }
 /*-------------------------------*/
 /*----------Hero section--------*/
+.hero {
+  max-width: 1050px;
+  margin: auto;
+}
+
+.placeholder {
+  width: 520px;
+  height: 235px;
+  background-color: #6d747d;
+}
+
 h1 {
   font-size: 48px;
   color: #f9faf8;
@@ -57,5 +68,9 @@ button {
   font-size: 18px;
   padding: 10px 25px;
   border-radius: 5px;
+}
+
+.placeholder p {
+  color: #f9faf8;
 }
 /*-------------------------------*/
