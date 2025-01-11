@@ -1,13 +1,18 @@
 /*----------Global styles--------*/
 body {
-  max-width: 1050px;
-  margin: auto;
   font-family: Roboto, serif;
+  background-color: #1f2937;
 }
 /*-------------------------------*/
 /*----------Header section--------*/
+
+.header-section {
+  max-width: 1050px;
+  margin: auto;
+}
 header {
   font-size: 24px;
+  font-weight: 800;
   color: #f9faf8;
 }
 
@@ -23,5 +28,4 @@ li {
 a {
   text-decoration: none;
 }
-
 /*-------------------------------*/
