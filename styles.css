@@ -30,7 +30,12 @@ li {
   color: #e5e7eb;
 }
 
+li:hover {
+  color: white;
+}
+
 a {
   text-decoration: none;
 }
+
 /*-------------------------------*/
