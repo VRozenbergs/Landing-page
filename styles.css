@@ -163,5 +163,53 @@ blockquote {
   width: 740px;
   text-align: end;
 }
+/*-------------------------------*/
+/*----------Call to action section--------*/
+.action {
+  width: 1025px;
+  height: 150px;
+  background-color: #3882f6;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+  margin-top: 80px;
+  margin-bottom: 100px;
+}
 
+.action h2 {
+  color: #f9faf8;
+  margin-bottom: 0px;
+}
+
+.action button {
+  border: 2px solid #f9faf8;
+  border-radius: 5px;
+}
+
+.call-frame {
+  width: 500px;
+}
+
+.call-frame p {
+  margin-top: 0px;
+}
+
+.large-container {
+  background-color: #f9faf8;
+  height: 330px;
+  padding-top: 10px;
+}
+
+/*-------------------------------*/
+/*----------Footer section--------*/
+footer p {
+  text-align: center;
+  height: 100px;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 /*-------------------------------*/
